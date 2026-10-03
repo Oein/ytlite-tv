@@ -1,0 +1,5 @@
+work/
+*.apk
+*.keystore
+__pycache__/
+work/venv/
